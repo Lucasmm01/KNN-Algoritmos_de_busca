@@ -14,9 +14,9 @@ Os algoritmos de busca utilizados são:
 
 ## 🔧 Ferramentas utilizadas no projeto
 
-* [Python]([http://www.dropwizard.io/1.0.2/docs/](https://www.python.org/)) - Linguagem de programação 
-* [Jupyter Notebook]([https://jupyter.org/]) - Ambiente de desenvolvimento
-* [Networkx]([https://networkx.org/]) - Biblioteca Python para estudar/visualizar grafos e redes
+* [Python](https://www.python.org/) - Linguagem de programação 
+* [Jupyter Notebook](https://jupyter.org/) - Ambiente de desenvolvimento
+* [Networkx](https://networkx.org/) - Biblioteca Python para estudar/visualizar grafos e redes
 
 ## ✒️ Autores
 
