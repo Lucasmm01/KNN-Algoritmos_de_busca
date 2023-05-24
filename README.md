@@ -18,12 +18,9 @@ Os algoritmos de busca utilizados são:
 * [Jupyter Notebook](https://jupyter.org/) - Ambiente de desenvolvimento
 * [Networkx](https://networkx.org/) - Biblioteca Python para estudar/visualizar grafos e redes
 
-## ✒️ Autores
+## ✒️ Autor
 
 * **Lucas M. Marinho** - [Lucas Machado Marinho](https://github.com/Lucasmm01)
-* **Pedro A. Luiz**
-* **Renan A. Leandro**
-* **Weverton S. Alves**
 
 ---
 ⌨️ By: [Lucas Machado Marinho](https://github.com/Lucasmm01) 👩🏻‍💻
